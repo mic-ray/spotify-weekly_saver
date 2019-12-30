@@ -1,1 +1,2 @@
-# spotify-weekly_saver
+# Spotify Weekly Mix and Release Radar Saver
+Python script using the Spotipy wrapper for the Spotify API, to save the current Weekly Mix and Release Radar to new playlist. For access exceeding the one week timeframe.

@@ -96,12 +96,4 @@ if weeklyPl and releasePl:
 else:
     print('Error while retrieving playlists')
     sys.exit()
-
-
-
-   
-
-
-
-
-
+    
